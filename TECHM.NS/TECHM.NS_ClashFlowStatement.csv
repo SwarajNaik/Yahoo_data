@@ -1,0 +1,5 @@
+,timestamp,netIncome,changeToLiabilities,investments,totalCashflowsFromInvestingActivities,netBorrowings,totalCashFromFinancingActivities,issuanceOfStock,changeInCash,effectOfExchangeRate,totalCashFromOperatingActivities,depreciation,otherCashflowsFromInvestingActivities,dividendsPaid,changeToAccountReceivables,otherCashflowsFromFinancingActivities,changeToNetincome,capitalExpenditures
+0,2020-12-31,13098000000,0,,,,,,,,,,,,,,,
+1,2020-09-30,10646000000,0,,,,,,,,,,,,,,,
+2,2020-06-30,9723000000,0,,,,,,,,,,,,,,,
+3,2020-03-31,8039000000,13103000000,7201000000.0,6707000000.0,2021000000.0,-8628000000.0,144000000.0,12265000000.0,97000000.0,14089000000.0,2848000000.0,994000000.0,-10233000000.0,-10778000000.0,-10793000000.0,-257000000.0,-1960000000.0
